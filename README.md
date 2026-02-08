@@ -8,7 +8,6 @@ Created with AI-assistance for quick utility.
 - Built for efficiency over complexity.
 
 ## Known Bugs / Features
-- **Reset All Button**: It exists, but it doesn't do anything because I got bored during implementation.
 
 Note on File Naming: Since this app was refactored from my original Ukulele tool, some internal UI elements still carry the "Ukulele" prefix. Please be assured that the logic and data are fully optimized for Guitar.
 
@@ -18,7 +17,6 @@ MIT (Feel free to use/mod)
 ボタンを押してギターのコードをチェックできる簡素なアプリです。
 AIと一緒に作りました。
 
-「Reset All」というボタンがありますが、作ってる最中に飽きて放置したので全く機能しません。
 自作のウクレレアプリを元にギター用にしたので"ukulele"って名前が入ったファイル名がありますがギター用のものです。
 
 MITライセンス。改造など自由ですが、自己責任でどうぞ。
